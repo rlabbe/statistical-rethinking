@@ -11,7 +11,13 @@ one cell to each code fragment.
 Requirements
 ------------
 
-As with the book, you will need to have Stan installed. You will also need
+You will need Richard's R package rethinking installed. Installation
+instructions and source are available on his GitHub repository:
+
+https://github.com/rmcelreath/rethinking
+
+As with the book, you will need to have RStan installed. McElreath's rethinking
+repository gives instructions for installing it. You will also need
 to have Jupyter's R kernel installed, along with, of course, Jupyter
 Notebook and R.
 
